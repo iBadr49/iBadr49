@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **iBadr49/iBadr49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,7 @@ My name is Badr. I am an 21 year old frontend developer student living in Zaanda
  
 > _Does not include (stats) from forked repositories_
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iBadr49&show_icons=true&theme) <!-- &theme=tokyonight -->
+> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iBadr49&show_icons=true&theme) <!-- &theme=tokyonight -->
  
  
 ## Skills
