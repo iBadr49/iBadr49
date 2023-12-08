@@ -20,7 +20,7 @@ My name is Badr. I am an 21 year old frontend developer student living in Zaanda
  
 ## Stats
  
-> _Does not include forked repositories_
+> _Does not include (stats) from forked repositories_
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iBadr49&show_icons=true&theme) <!-- &theme=tokyonight -->
  
