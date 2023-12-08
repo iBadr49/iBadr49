@@ -20,14 +20,13 @@ My name is Badr. I am an 21 year old frontend developer living in Zaandam.
  
 ## Stats
  
-Does not include forked repositories
+_Does not include forked repositories_
  
 ![Badr's GitHub stats](https://github-readme-stats.vercel.app/api?username=iBadr49&show_icons=true&theme=tokyonight)
  
  
 ## Skills
  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,svelte,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,svelte,nuxt&perline=5)](https://skillicons.dev)
  
  
-- 💻 Frontend Developer
