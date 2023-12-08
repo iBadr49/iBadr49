@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-My name is Badr. I am an 21 year old frontend developer living in Zaandam.
+My name is Badr. I am an 21 year old frontend developer student living in Zaandam.
  
 ## Stats
  
-_Does not include forked repositories_
+> _Does not include forked repositories_
  
-![Badr's GitHub stats](https://github-readme-stats.vercel.app/api?username=iBadr49&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iBadr49&show_icons=true&theme=tokyonight)
  
  
 ## Skills
