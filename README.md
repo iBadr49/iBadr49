@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+My name is Badr. I am an 21 year old frontend developer living in Zaandam.
+ 
+## Stats
+ 
+Does not include forked repositories
+ 
+![Badr's GitHub stats](https://github-readme-stats.vercel.app/api?username=iBadr49&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+ 
+ 
+## Skills
+ 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,svelte,&perline=5)](https://skillicons.dev)
+ 
+ 
+- 💻 Frontend Developer
