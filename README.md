@@ -16,16 +16,19 @@ Here are some ideas to get you started:
 -->
 
 
-My name is Badr. I am an 21 year old frontend developer student living in Zaandam.
+My name is Badr. I'm an 21 year old frontend developer student living near Amsterdam.
  
 ## Stats
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iBadr49\&include_all_commits=true) <!-- &theme=tokyonight -->
 
-<!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iBadr49&show_progress=true) -->
-
 ## Skills
  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,svelte,nuxt&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,svelte&perline=5)](https://skillicons.dev)
  
- 
+ ***
+
+- 💻 Frontend Developer
+- 🌪️ I love CSS!
+- 🚀 I’m currently learning Nuxt!
+- 👯 Great in Collaborating with other people!
