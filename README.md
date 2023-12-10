@@ -8,7 +8,7 @@ My name is Badr. I'm an 21 year old frontend developer student living near Amste
 
 # Skills
  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,svelte,nuxt&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,svelte,nuxt,nodejs&perline=5)](https://skillicons.dev)
  
 ***
 
