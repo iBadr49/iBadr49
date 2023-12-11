@@ -4,7 +4,9 @@ My name is Badr. I'm an 21 year old frontend developer student living near Amste
  
 # Stats
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iBadr49\&include_all_commits=true) <!-- &theme=tokyonight -->
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iBadr49&show_icons=true)
 
 # Skills
  
