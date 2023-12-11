@@ -12,5 +12,5 @@ My name is Badr. I'm an 21 year old frontend developer student living near Amste
  
 - 💻 Frontend Developer
 - 🌪️ I love CSS!
-- 🚀 I’m currently learning React!
+- 🚀 I’m currently learning GSAP!
 - 👯 Great in Collaborating with other people!
