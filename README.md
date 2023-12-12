@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Badr. I'm an 21 year old frontend developer student living near Amsterdam.
+My name is Badr, and I am getting married to Jawla Benyaich 'Amara'. I am a 21-year-old student studying Frontend Development, living near Amsterdam."
  
 # Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iBadr49\&include_all_commits=true)
