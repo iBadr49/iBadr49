@@ -12,5 +12,5 @@ My name is Badr, a 21 year old student studying Frontend Design & Development an
  
 - 💻 Frontend Developer
 - 🌪️ I love CSS!
-- 🚀 I’m currently learning GSAP!
+- 🚀 I’m currently learning ...
 - 👯 Great in Collaborating with other people!
